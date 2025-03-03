@@ -15,8 +15,9 @@
     <scm>
         <connection>scm:git:git@github.com:yaminee-pit/fastays-thirdparty.git</connection>
         <developerConnection>scm:git:git@github.com:yaminee-pit/fastays-thirdparty.git</developerConnection>
-        <url>scm:git:git@github.com:yaminee-pit/fastays-thirdparty.git</url>
-  </scm>
+        <url>https://github.com/yaminee-pit/fastays-thirdparty</url>
+        <tag>HEAD</tag>
+    </scm>
 
 
     <properties>

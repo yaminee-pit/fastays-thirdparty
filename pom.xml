@@ -13,9 +13,9 @@
     </modules>
 
     <scm>
-        <connection>scm:git:git@github.com:pradeepit-internal/fastays-thirdparty.git</connection>
-        <developerConnection>scm:git:git@github.com:pradeepit-internal/fastays-thirdparty.git</developerConnection>
-        <url>scm:git:git@github.com:pradeepit-internal/fastays-thirdparty.git</url>
+        <connection>scm:git:git@github.com:yaminee-pit/fastays-thirdparty.git</connection>
+        <developerConnection>scm:git:git@github.com:yaminee-pit/fastays-thirdparty.git</developerConnection>
+        <url>scm:git:git@github.com:yaminee-pit/fastays-thirdparty.git</url>
   </scm>
 
 

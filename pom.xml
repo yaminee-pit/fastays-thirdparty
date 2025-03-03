@@ -16,7 +16,6 @@
         <connection>scm:git:git@github.com:pradeepit-internal/fastays-thirdparty.git</connection>
         <developerConnection>scm:git:git@github.com:pradeepit-internal/fastays-thirdparty.git</developerConnection>
         <url>scm:git:git@github.com:pradeepit-internal/fastays-thirdparty.git</url>
-      <tag>fastays-thirdparty-1.0</tag>
   </scm>
 
 
